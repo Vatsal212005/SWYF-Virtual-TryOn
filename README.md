@@ -1,6 +1,6 @@
 # SWYF - See What You Fit
 
-![SWYF Logo](services/virtual-tryon/static/react-app/favicon.png)
+![SWYF Logo](https://raw.githubusercontent.com/your-username/your-repository/main/Screenshot%202025-03-21%20225122%5B1%5D.png)
 
 SWYF is an innovative AI-powered virtual try-on platform that revolutionizes online fashion shopping, allowing users to visualize how clothes will look on them before making a purchase.
 
