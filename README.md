@@ -1,6 +1,9 @@
 # SWYF - See What You Fit
 
-![SWYF Logo](https://raw.githubusercontent.com/your-username/your-repository/main/Screenshot%202025-03-21%20225122%5B1%5D.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vatsal212005/SWYF-Virtual-TryOn/main/assets/Screenshot%202025-03-21%20225122%5B1%5D.png" alt="SWYF Logo" width="300">
+</p>
+
 
 SWYF is an innovative AI-powered virtual try-on platform that revolutionizes online fashion shopping, allowing users to visualize how clothes will look on them before making a purchase.
 
@@ -119,7 +122,7 @@ swyf/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/swyf.git
+git clone https://github.com/Vatsal212005/SWYF-Virtual-TryOn.git
 cd swyf
 ```
 
