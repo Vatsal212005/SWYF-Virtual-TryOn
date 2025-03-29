@@ -14,7 +14,6 @@ SWYF is an innovative AI-powered virtual try-on platform that revolutionizes onl
 - [Usage](#usage)
 - [Blockchain Integration](#blockchain-integration)
 - [Rewards System](#rewards-system)
-- [Contact Information](#contact-information)
 - [License](#license)
 
 ## ✨ Features
@@ -188,13 +187,6 @@ Our rewards program offers:
 - **Progress Tracking**: Track your rewards journey
 - **Exclusive Benefits**: Unlock discounts, early access, and special features
 - **Multi-level Rewards**: Progress through different levels to earn more benefits
-
-## 📞 Contact Information
-
-- **Headquarters**: Sector 61, Noida, Uttar Pradesh, India
-- **Phone**: +91 8588077790
-- **Email**: swyam7@gmail.com
-- **Business Hours**: Monday - Friday: 9am - 6pm IST
 
 ## 📄 License
 
