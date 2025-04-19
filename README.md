@@ -80,10 +80,6 @@ swyf/
 
 > **Note:** These are early prototype screenshots. The UI is evolving daily as we develop the platform.
 
-### Landing Page
-[Landing Page]
-*Our modern, engaging landing page showcasing SWYF's key features*
-
 ### Projects
 ![Projects](assets/projects.png)
 *AI-driven skin tone detection with virtual try-on for customized outfit suggestions*
