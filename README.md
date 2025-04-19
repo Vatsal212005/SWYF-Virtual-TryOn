@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/Vatsal212005/SWYF-Virtual-TryOn/main/assets/logo.png" alt="SWYF Logo" width="300">
 </p>
 
-> **Project Status: Early Development (Started: April 4, 2025)**
+> **Project Status: Early Development (Started: April 17, 2025)**
 >
 > This project is currently in its initial development phase. Core features are functional but may contain bugs. Please report any issues through our issue tracker.
 
@@ -18,7 +18,6 @@ SWYF is an innovative AI-powered virtual try-on platform that revolutionizes onl
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Blockchain Integration](#blockchain-integration)
 - [Rewards System](#rewards-system)
 - [Development Log](#development-log)
 - [Current Status](#current-status)
@@ -29,9 +28,7 @@ SWYF is an innovative AI-powered virtual try-on platform that revolutionizes onl
 
 - 👔 **Virtual Try-On**: Try clothing items virtually in real-time using AI technology
 - 🎨 **Skin Tone Analysis**: Get personalized color recommendations based on your skin tone
-- 💰 **Blockchain Security**: Enhanced security for transactions and personal data
 - 🏆 **Rewards Program**: Earn tokens for interactions with the platform
-- 💳 **Buy Now Pay Later**: Flexible payment options secured by blockchain
 - 📱 **Responsive Design**: Works seamlessly on desktop and mobile devices
 - 🌙 **Dark Mode Support**: Enhanced viewing experience with full dark mode support
 - 🔄 **Interactive 3D Background**: Engaging user experience with interactive Spline 3D elements
@@ -71,7 +68,6 @@ swyf/
 │
 ├── assets/                      # Shared assets
 │   ├── landingpage.jpg          # Landing page preview
-│   ├── blockchainpage.jpg       # Blockchain page preview
 │   └── ...                      # Other image assets
 │
 ├── docs/                        # Project documentation
@@ -85,12 +81,8 @@ swyf/
 > **Note:** These are early prototype screenshots. The UI is evolving daily as we develop the platform.
 
 ### Landing Page
-![Landing Page](assets/landingpage.png)
+![Landing Page]
 *Our modern, engaging landing page showcasing SWYF's key features*
-
-### Blockchain Features
-![Blockchain Page](assets/blockchain.png)
-*Blockchain integration providing enhanced security, transparency, and efficiency*
 
 ### Projects
 ![Projects](assets/projects.png)
